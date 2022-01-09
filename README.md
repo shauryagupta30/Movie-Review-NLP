@@ -5,7 +5,7 @@ Classifier accuracy percent: 85.18296340731854
 
 
 
-Most Informative Features
+Likelihood-ratio
 
              unwatchable = True              neg : pos    =     26.7 : 1.0
              
