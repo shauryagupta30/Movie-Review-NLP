@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Movie-Review-NLP
 this project uses Naive Bais as the principal Algorithm for calculating the probability of a word to exist in a positive statement versus a negative statement
 Classifier accuracy percent: 85.18296340731854
 
